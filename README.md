@@ -11,14 +11,14 @@ https://github.com/duyfx9/TFT_Clock
 2.Schematic
 
 ILI9341    STM32	
-VCC	    3.3V
+VCC	      3.3V
 GND 	    G	
-CS	    B10			
+CS	      B10			
 RESET	    B1		
-DC	    B0	
+DC	      B0	
 MOSI	    A7
-SCK	    A5
-LED	    3.3V
+SCK	      A5
+LED	      3.3V
 
 3.Setup
 
