@@ -1,8 +1,9 @@
 # Interface-ILI9341-LCD-with-STM32F103C8T6
 a small example to communicate between LCD ILI9341 with STM32F103C8T6
+
 1.Introduce
 
-This is how to interface ILI9341 LCD with STM32F103C8T6 using STM32CubeIDE
+This is how to interface ILI9341 LCD with STM32F103C8T6 using STM32CubeIDE.
 I added 2 new fonts with larger sizes
 You can take a look at my repository to see how to print letters and numbers to the screen using printf 
 https://github.com/duyfx9/TFT_Clock
